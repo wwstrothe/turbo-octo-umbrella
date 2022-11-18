@@ -14,6 +14,10 @@ body {
   border-bottom: 2px solid red;
 }
 
+.perimeter {
+  width: 25%;
+}
+
 .header {
   background-color: Black;
   border-bottom:2px solid red;
