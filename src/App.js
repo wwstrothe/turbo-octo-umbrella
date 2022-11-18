@@ -1,23 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+// components
+import Boarding from './components/Boarding';
+import Footer from './components/Footer';
+import Hazards from './components/Hazards';
+import Header from './components/Header';
+import LawnMaintenance from './components/LawnMaintenance';
+import LockChanges from './components/LockChanges';
+import Other from './components/Other';
+import RoofRepair from './components/RoofRepair';
+import SwimmingPool from './components/SwimmingPool';
+import Winterization from './components/Winterization';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <div>
+        <RoofRepair />
+        <Boarding />
+        <LockChanges />
+        <Hazards />
+        <SwimmingPool />
+        <LawnMaintenance />
+        <Winterization />
+        <Other />
+      </div>
+
+      <Footer />
     </div>
   );
 }
