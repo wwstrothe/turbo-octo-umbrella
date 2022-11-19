@@ -1,8 +1,0 @@
-ACCORDION
-
-
-
-everything is divisible by 8 for padding margin etc
-https://react-bootstrap.github.io/components/accordion/
-
-the fonts and colors are compliant with accessibility guidelines 

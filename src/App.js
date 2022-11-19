@@ -13,13 +13,13 @@ function App() {
     <div>
       <Container>
         <Row className="justify-content-center">
-          <Col xs lg="12">
+          <Col lg="12">
             <Header />
           </Col>
-          <Col xs lg="10">
+          <Col lg="10">
             <Usage />
           </Col>
-          <Col xs lg="8" className="fees">
+          <Col lg="8" className="fees">
             <Fees />
           </Col>
 
