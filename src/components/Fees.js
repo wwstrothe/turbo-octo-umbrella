@@ -1,12 +1,12 @@
 import Accordion from 'react-bootstrap/Accordion';
-import Boarding from '../components/Boarding';
-import Hazards from '../components/Hazards';
-import LawnMaintenance from '../components/LawnMaintenance';
-import LockChanges from '../components/LockChanges';
-import Other from '../components/Other';
-import RoofRepair from '../components/RoofRepair';
-import SwimmingPool from '../components/SwimmingPool';
-import Winterization from '../components/Winterization';
+import Boarding from '../Pages/Boarding';
+import Hazards from '../Pages/Hazards';
+import LawnMaintenance from '../Pages/LawnMaintenance';
+import LockChanges from '../Pages/LockChanges';
+import Other from '../Pages/Other';
+import RoofRepair from '../Pages/RoofRepair';
+import SwimmingPool from '../Pages/SwimmingPool';
+import Winterization from '../Pages/Winterization';
 
 function Fees() {
   return (

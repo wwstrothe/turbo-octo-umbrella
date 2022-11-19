@@ -26,8 +26,8 @@ function RoofRepair() {
           does not encourage replacing roofs prior to sale, but in cases where
           the servicer feels that this is necessary a first and second bid will
           be submitted to Fannie Mae for consideration.
+          <br></br>Do not tarp flat roofs.
         </Card.Text>
-        <Card.Text>Do not tarp flat roofs.</Card.Text>
         <Card.Subtitle>Tarp or Patchwork</Card.Subtitle>
         <Card.Text>
           Fannie Mae requires that when roof repairs exceed allowable, a bid to
