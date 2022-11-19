@@ -1,11 +1,7 @@
 import React from 'react';
 
 const Footer = () => {
-  return (
-    <div className="footer">
-      <h5>Made by Will Strothe</h5>
-    </div>
-  );
+  return <h6 className="footer">Made by Will Strothe</h6>;
 };
 
 export default Footer;

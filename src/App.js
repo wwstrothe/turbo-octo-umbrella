@@ -1,33 +1,24 @@
 // components
-import Boarding from './components/Boarding';
+import Col from 'react-bootstrap/Col';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
 import Footer from './components/Footer';
-import Hazards from './components/Hazards';
 import Header from './components/Header';
-import LawnMaintenance from './components/LawnMaintenance';
-import LockChanges from './components/LockChanges';
-import Other from './components/Other';
-import RoofRepair from './components/RoofRepair';
-import SwimmingPool from './components/SwimmingPool';
-import Winterization from './components/Winterization';
+import Fees from './Pages/Fees';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header />
-      <div>
-        <RoofRepair />
-        <Boarding />
-        <LockChanges />
-        <Hazards />
-        <SwimmingPool />
-        <LawnMaintenance />
-        <Winterization />
-        <Other />
-      </div>
-      <div>
-        <br></br>
-      </div>
+      <Container>
+        <Row className="justify-content-center ">
+          <Col xs lg="9">
+            <Fees />
+          </Col>
+        </Row>
+      </Container>
 
+      <br></br>
       <Footer />
     </div>
   );
