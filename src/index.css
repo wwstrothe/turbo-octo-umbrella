@@ -4,31 +4,49 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+hr {
+  opacity: 1;
+  border-top: 3px solid black;
 }
 
+/* images */
 .perimeter {
   width: 25%;
 }
 
+
+/* Components */
 .header {
-  padding: 10px 30px;
+
   width: 100%;
   top: 0;
   text-align: center;
+  background-color: gainsboro;
+}
+
+.usage {
+  text-align: center;
+  padding: 10px 30px;
+  background-color: gainsboro;
+  border-style: inset;
 }
 
 .footer {
+  position: fixed;
   width: 100%;
   bottom: 0;
   color: Black;
   text-align: center;
-  background-color: white;
-  margin: auto;
-  padding: 10px 0 
+  background-color: gainsboro;
+  margin: auto; 
+  padding: 10px 0
 }
 
+.fees {
+  padding-bottom: 50px;
+}
 
-
+.card-subtitle {
+  font-size: 1.125rem;
+  font-weight: bold
+}

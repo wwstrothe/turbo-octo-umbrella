@@ -34,14 +34,14 @@ function Other() {
 
         <Card.Subtitle>Additional Information</Card.Subtitle>
         <Card.Text>
-          EMERGENCY REPAIRS<br></br>
+          - EMERGENCY REPAIRS<br></br>
           The most important element to defining an emergency is that an
           immediate response is necessary to prevent damage or lessen the loss
           of property. Gradual and progressive deterioration or lack of property
           maintenance does not qualify as an emergency.
         </Card.Text>
         <Card.Text>
-          SUMP PUMPS<br></br>
+          - SUMP PUMPS<br></br>
           If an existing sump pump is used to keep basements or crawl spaces
           dry, check the sump pump to make sure it is operational. If the sump
           pump in question is electrical, ensure that the sump pump is plugged
@@ -51,18 +51,18 @@ function Other() {
           replace the pump.
         </Card.Text>
         <Card.Text>
-          UTILITY TRANSFERS<br></br>
+          - UTILITY TRANSFERS<br></br>
           If required for preservation, the Servicer must transfer utilities
           into their name during pre-foreclosure proceedings.
         </Card.Text>
         <Card.Text>
-          VACANT PROPERTY REGISTRATION (VPR)<br></br>
+          - VACANT PROPERTY REGISTRATION (VPR)<br></br>
           If local ordinance requires a vacant property to be registered,
           servicers should follow requirements. Reimbursement will be provided
           only for the registration fee.
         </Card.Text>
         <Card.Text>
-          CODE VIOLATIONS<br></br>
+          - CODE VIOLATIONS<br></br>
           If any violations are posted on a property the Servicer must submit a
           bid to correct the violation(s) via HomeTracker if amounts exceed
           Fannie Mae’s allowable and attach a copy of the violation to the bid.
@@ -70,12 +70,12 @@ function Other() {
           P&P form that the violation has been submitted.
         </Card.Text>
         <Card.Text>
-          PROPERTIES IN BANKRUPTCY<br></br>
+          - PROPERTIES IN BANKRUPTCY<br></br>
           Servicers should consult with their legal department when addressing
           issues of vacant properties in bankruptcy.
         </Card.Text>
         <Card.Text>
-          DISCOLORATION<br></br>
+          - DISCOLORATION<br></br>
           Identify the source of the discoloration. Fannie Mae typically does
           not remediate discoloration during pre-foreclosure proceedings. When
           submitting bids to treat discoloration, include the area affected in
@@ -83,7 +83,7 @@ function Other() {
           method to be used in treatment.
         </Card.Text>
         <Card.Text>
-          DEBRIS REMOVAL<br></br>
+          - DEBRIS REMOVAL<br></br>
           Interior and exterior items submitted as debris may be considered
           personal property by the mortgagor. As a result, Fannie Mae does not
           typically consider the removal of any items during foreclosure
@@ -97,7 +97,7 @@ function Other() {
           glass or tires.
         </Card.Text>
         <Card.Text>
-          PERSONAL PROPERTY<br></br>
+          - PERSONAL PROPERTY<br></br>
           Fannie Mae will not usually consider removal or storage of personal
           property prior to foreclosure with exceptions regarding code
           violations, liens, fines or discolored debris caused by water damage.

@@ -41,7 +41,7 @@ function Hazards() {
 
         <Card.Subtitle>Health and Safety</Card.Subtitle>
         <Card.Text>
-          REFRIGERATOR/FREEZER <br></br>The Fannie Mae allowable for cleaning
+          - REFRIGERATOR/FREEZER <br></br>The Fannie Mae allowable for cleaning
           includes the removal of all perishables from both the refrigerator and
           freezer in addition to a wipe down of the appliance’s interior and
           exterior. A separate allowable is provided for a stand alone
@@ -49,18 +49,18 @@ function Hazards() {
           appliance’s interior and exterior.
         </Card.Text>
         <Card.Text>
-          TOILET/BATHROOM<br></br>
+          - TOILET/BATHROOM<br></br>
           The Fannie Mae allowable for cleaning should be used when fecal matter
           is present. This allowable also includes cleaning with a toilet brush,
           wiping down exterior, and winterizing, if in season.
         </Card.Text>
         <Card.Text>
-          GAS/WATER<br></br>
+          - GAS/WATER<br></br>
           Bare wires and uncapped or open gas/water lines are required to be
           capped regardless of utility status.
         </Card.Text>
         <Card.Text>
-          FUEL REMOVAL<br></br>
+          - FUEL REMOVAL<br></br>
           The Fannie Mae allowable for removal of gas can(s) or propane tank(s)
           does not include removing equipment that contains gas or propane
           (e.g., lawnmower, weed eater, grill, etc.).

@@ -33,7 +33,7 @@ function LawnMaintenance() {
         </Table>
 
         <Card.Text>
-          INITIAL GRASS CUTS<br></br>
+          - INITIAL GRASS CUTS<br></br>
           Initial grass cuts should be performed on lots up to 15,000 sq ft. If
           lot size is greater then 15,000 sq ft, initial full lot and subsequent
           cuts and initial perimeter and subsequent perimeter cuts should be
@@ -41,7 +41,7 @@ function LawnMaintenance() {
           ft.
         </Card.Text>
         <Card.Text>
-          DEBRIS IN YARD/SHRUBS<br></br>
+          - DEBRIS IN YARD/SHRUBS<br></br>
           Incidental debris removal should be included as part of the allowable
           grass cut as well as edging, minimal leaf removal, and clearing of all
           grass cut clippings. The yard and its surroundings should be in model
@@ -57,7 +57,7 @@ function LawnMaintenance() {
         />
 
         <Card.Text>
-          GRASS CUT SCHEDULE<br></br>
+          <br></br>- GRASS CUT SCHEDULE<br></br>
           Initial grass cuts should be made between April 1 and October 31 in
           the following states/territories:<br></br>
           AR, CO, CT, DE, ID, IL, IN, IA, KS, KY, ME, MD, MA, MI, MN, MO, MT,
@@ -78,7 +78,7 @@ function LawnMaintenance() {
           One initial grass cut should be performed per calendar year.
         </Card.Text>
         <Card.Text>
-          GRASS RE-CUTS<br></br>
+          - GRASS RE-CUTS<br></br>
           Grass should typically be cut twice a month between April 1 and
           October 31. Approval is required if more frequent re-cuts are
           necessary. Re-cuts once a month may be sufficient depending on
