@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/turbo-octo-umbrella/static/css/main.dbab1887.css",
-    "main.js": "/turbo-octo-umbrella/static/js/main.58fd9386.js",
+    "main.css": "/turbo-octo-umbrella/static/css/main.d989f869.css",
+    "main.js": "/turbo-octo-umbrella/static/js/main.d9989034.js",
     "static/js/787.0420ccf9.chunk.js": "/turbo-octo-umbrella/static/js/787.0420ccf9.chunk.js",
     "index.html": "/turbo-octo-umbrella/index.html",
-    "main.dbab1887.css.map": "/turbo-octo-umbrella/static/css/main.dbab1887.css.map",
-    "main.58fd9386.js.map": "/turbo-octo-umbrella/static/js/main.58fd9386.js.map",
+    "main.d989f869.css.map": "/turbo-octo-umbrella/static/css/main.d989f869.css.map",
+    "main.d9989034.js.map": "/turbo-octo-umbrella/static/js/main.d9989034.js.map",
     "787.0420ccf9.chunk.js.map": "/turbo-octo-umbrella/static/js/787.0420ccf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbab1887.css",
-    "static/js/main.58fd9386.js"
+    "static/css/main.d989f869.css",
+    "static/js/main.d9989034.js"
   ]
 }
