@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/turbo-octo-umbrella/static/css/main.d989f869.css",
-    "main.js": "/turbo-octo-umbrella/static/js/main.d14c2381.js",
+    "main.js": "/turbo-octo-umbrella/static/js/main.8fe6b8d5.js",
     "static/js/787.0420ccf9.chunk.js": "/turbo-octo-umbrella/static/js/787.0420ccf9.chunk.js",
     "index.html": "/turbo-octo-umbrella/index.html",
     "main.d989f869.css.map": "/turbo-octo-umbrella/static/css/main.d989f869.css.map",
-    "main.d14c2381.js.map": "/turbo-octo-umbrella/static/js/main.d14c2381.js.map",
+    "main.8fe6b8d5.js.map": "/turbo-octo-umbrella/static/js/main.8fe6b8d5.js.map",
     "787.0420ccf9.chunk.js.map": "/turbo-octo-umbrella/static/js/787.0420ccf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d989f869.css",
-    "static/js/main.d14c2381.js"
+    "static/js/main.8fe6b8d5.js"
   ]
 }
