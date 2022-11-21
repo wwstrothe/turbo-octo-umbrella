@@ -53,7 +53,7 @@ function LawnMaintenance() {
 
         <Card.Img
           className="perimeter "
-          src="public\assets\images\perimeterExample.png"
+          src={process.env.PUBLIC_URL + `/assets/images/perimeterExample.png`}
         />
 
         <Card.Text>

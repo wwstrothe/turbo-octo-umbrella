@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="footer align-bottom">
       <hr></hr>
-      <h6>Made by Will Strothe</h6>
+      <h6>Built by Will Strothe</h6>
     </div>
   );
 };
